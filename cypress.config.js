@@ -6,7 +6,9 @@ module.exports = defineConfig({
       
       // implement node event listeners here
     },
-    baseUrl: 'https://playground.bondaracademy.com/'
+    baseUrl: 'https://playground.bondaracademy.com/',
+    viewportWidth: 1920,
+    viewportHeight: 1080
   },
 });
 
